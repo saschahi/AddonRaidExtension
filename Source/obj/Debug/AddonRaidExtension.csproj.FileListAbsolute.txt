@@ -1,0 +1,5 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AddonRaidExtension\Assemblies\AddonRaidExtension.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AddonRaidExtension\Source\obj\Debug\AddonRaidExtension.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AddonRaidExtension\Source\obj\Debug\AddonRaidExtension.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AddonRaidExtension\Source\obj\Debug\AddonRaidExtension.csproj.CopyComplete
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AddonRaidExtension\Source\obj\Debug\AddonRaidExtension.dll

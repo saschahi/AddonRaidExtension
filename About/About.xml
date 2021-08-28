@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>ToolkitAddon - [SR]Raid Extension</name>
+  <author>saschahi</author>
+  <url>https://discord.com/invite/qrtg224</url>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <description>Makes Raids from the [SR]Raid Extension Mod purchaseable events.</description>
+  <modDependencies>
+    <!-- Using hugslib as an example here. -->
+      <li>
+        <packageId>hodlhodl.toolkitcore</packageId>
+        <displayName>ToolkitCore</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2018368654</steamWorkshopUrl>
+      </li>
+	  <li>
+        <packageId>hodlhodl.twitchtoolkit</packageId>
+        <displayName>TwitchToolkit</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/1718525787</steamWorkshopUrl>
+      </li>
+	  <li>
+        <packageId>SR.ModRimWorld.RaidExtension</packageId>
+        <displayName>[SR]Raid Extension</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2534328163</steamWorkshopUrl>
+      </li>
+  </modDependencies>
+  <loadAfter>
+    <li>hodlhodl.toolkitcore</li>
+	<li>hodlhodl.twitchtoolkit</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TwitchToolkit.Incidents.StoreIncidentVariables>
+    <defName>AddonSRPoaching</defName>
+    <label>Poaching Raid</label>
+    <abbreviation>raidpoachers</abbreviation>
+	<description>Spawns a Faction War event from [SR]Raid Extensions</description>
+    <cost>1000</cost>
+    <eventCap>1</eventCap>
+    <incidentHelper>AddonRaidExtension.Poaching</incidentHelper>
+    <karmaType>Bad</karmaType>
+	<minPointsToFire>500</minPointsToFire>
+    <maxWager>10000</maxWager>
+  </TwitchToolkit.Incidents.StoreIncidentVariables>
+  <TwitchToolkit.Incidents.StoreIncidentVariables>
+    <defName>AddonSRLogging</defName>
+    <label>Loggers Steal yo trees</label>
+    <abbreviation>raidloggers</abbreviation>
+	<description>Spawns a Faction War event from [SR]Raid Extensions</description>
+    <cost>1000</cost>
+    <eventCap>1</eventCap>
+    <incidentHelper>AddonRaidExtension.SRLogging</incidentHelper>
+    <karmaType>Bad</karmaType>
+	<minPointsToFire>500</minPointsToFire>
+    <maxWager>10000</maxWager>
+  </TwitchToolkit.Incidents.StoreIncidentVariables>
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>AddonSrHositleTraveler</defName>
+    <label>Hostile People passing by</label>
+    <abbreviation>hostiletraveler</abbreviation>
+	<description>Spawns a Faction War event from [SR]Raid Extensions</description>
+    <cost>400</cost>
+    <eventCap>1</eventCap>
+    <incidentHelper>AddonRaidExtension.HostileTraveler</incidentHelper>
+    <karmaType>Neutral</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+  <TwitchToolkit.Incidents.StoreIncidentSimple>
+    <defName>AddonSrHositleCaravanPassing</defName>
+    <label>Hostile Caravan passing through</label>
+    <abbreviation>hostilecaravan</abbreviation>
+	<description>Spawns a Faction War event from [SR]Raid Extensions</description>
+    <cost>700</cost>
+    <eventCap>1</eventCap>
+    <incidentHelper>AddonRaidExtension.HostileCaravanPassing</incidentHelper>
+    <karmaType>Neutral</karmaType>
+  </TwitchToolkit.Incidents.StoreIncidentSimple>
+</Defs>
