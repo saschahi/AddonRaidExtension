@@ -1,5 +1,0 @@
-E:\SteamLibrary\steamapps\common\RimWorld\Mods\Testmod\Assemblies\TestMod.dll
-E:\SteamLibrary\steamapps\common\RimWorld\Mods\Testmod\Source\obj\Debug\TestMod.csproj.AssemblyReference.cache
-E:\SteamLibrary\steamapps\common\RimWorld\Mods\Testmod\Source\obj\Debug\TestMod.csproj.CoreCompileInputs.cache
-E:\SteamLibrary\steamapps\common\RimWorld\Mods\Testmod\Source\obj\Debug\TestMod.dll
-E:\SteamLibrary\steamapps\common\RimWorld\Mods\Testmod\Source\obj\Debug\TestMod.csproj.CopyComplete
